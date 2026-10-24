@@ -16,5 +16,6 @@ The engine can follow a **deterministic** workflow. A local model such as BonsaÃ
 
 - [Architecture and control gates](docs/architecture.en.md)
 - [G/H demonstration kits and limits](docs/evidence.en.md)
+- [Rights and viewing terms](NOTICE.md)
 
 ELD is distinct from EAS Defense and Elyne Red Unified. A launcher exit code of zero or an operator attestation alone does not establish a defense PASS. This documentation repository contains no campaign state, VM configuration, or raw receipts. [Contact Elyne Corp](mailto:admin@elynecorp.fr) Â· [Catalog](https://elynecorp.com/).

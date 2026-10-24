@@ -16,5 +16,6 @@ Le moteur peut suivre un parcours **déterministe**. Un modèle local, tel que B
 
 - [Architecture et portes de contrôle](docs/architecture.md)
 - [Kits de démonstration G/H et limites](docs/evidence.md)
+- [Droits et conditions de consultation](NOTICE.md)
 
 ELD est un produit distinct d'EAS Défense et d'Elyne Red Unifiée. Un code retour 0 du lanceur ou une attestation humaine ne constituent pas, seuls, un verdict PASS de la défense. Ce dépôt est documentaire ; il ne contient ni état de campagne, ni configurations de VM, ni reçus bruts. [Contacter Elyne Corp](mailto:admin@elynecorp.fr) · [Catalogue](https://elynecorp.fr/).
