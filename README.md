@@ -2,6 +2,9 @@
 
 **Français · [English](README.en.md)**
 
+**Documentation propriétaire — tous droits réservés.** Aucun réemploi hors des fonctions de GitHub n'est autorisé sans l'accord écrit des titulaires des droits. [Notice de droits](NOTICE.md).
+[Carte des produits Elyne Corp](https://github.com/deharoalexandre-cyber/deharoalexandre-cyber)
+
 ELD organise les campagnes de qualification en laboratoire. Il vérifie le périmètre, l'état préalable, les preuves et les portes de reprise ; il déclenche les étapes approuvées, consolide les résultats et produit un rapport traçable. Elyne Red choisit et exécute ses actions offensives dans le scénario autorisé ; ELD garde la conduite du laboratoire. Le catalogue présente ELD au statut **Laboratoire**.
 
 Le moteur peut suivre un parcours **déterministe**. Un modèle local, tel que Bonsaï, peut aider à analyser ou proposer des étapes, sans remplacer les contrôles de périmètre ni l'attestation de l'opérateur.

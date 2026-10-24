@@ -2,6 +2,9 @@
 
 **English · [Français](README.md)**
 
+**Proprietary documentation — all rights reserved.** No reuse beyond GitHub platform functions is authorized without the rights holders' written consent. [Rights notice](NOTICE.md).
+[Elyne Corp product map](https://github.com/deharoalexandre-cyber/deharoalexandre-cyber)
+
 ELD coordinates laboratory qualification campaigns. It checks scope, initial state, evidence, and recovery gates; it starts approved stages, consolidates results, and produces a traceable report. Elyne Red selects and executes offensive actions within the authorized scenario; ELD directs the laboratory workflow. The catalogue lists ELD as **Laboratory**.
 
 The engine can follow a **deterministic** workflow. A local model such as Bonsaï may help analyze results or propose stages without replacing scope checks or operator attestation.
